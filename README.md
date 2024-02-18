@@ -24,6 +24,6 @@ The task involves finding matching pairs of sales points from two different data
 
 ## Objective
 
-The goal is to assign the identifier from BASE B to the establishments in BASE A.
+In this exercise, we are going to do a match of two datasets that have information about locations. To solve this problem, we are going to use a Levenshtein distance, using the fuzz ratio function that Python have to compare strings.
 
 
