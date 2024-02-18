@@ -23,7 +23,6 @@ The task involves finding matching pairs of sales points from two different data
 - **BASE B**: A database from client visits to sales points for product sales, containing 6,039 establishments with demographic information, similar to BASE A but in XLSX (Excel) format.
 
 ## Objective
-
-In this exercise, we are going to do a match of two datasets that have information about locations. To solve this problem, we are going to use a Levenshtein distance, using the fuzz ratio function that Python have to compare strings.
+Perform dataset matching by utilizing the Levenshtein distance through Python's fuzz ratio function to compare location information across two datasets by its attributes.
 
 
